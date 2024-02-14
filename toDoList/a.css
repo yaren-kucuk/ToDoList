@@ -1,0 +1,122 @@
+body{
+    background-image: url("background.webp");
+}
+@media (max-width: 500px) {
+  
+    body {
+      font-size: 14px;
+    }
+   
+  }
+  h1{
+    font-family: 'Courier New', Courier, monospace;
+  }
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+.cerceve{
+    
+   
+        width:900px;
+        height: 900px;
+        color: black;
+        background-color: rgb(255, 255, 255);
+        padding: 30px; 
+        border: 5px solid black;
+        border-radius: 10px;
+        margin: auto;
+        border: 2px solid #ccc;
+        
+      
+        
+    
+    
+
+}
+.button-cerceve {
+    margin-bottom: 10px;}
+
+.button{
+    background-color: rgb(206, 231, 231);
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+ 
+    
+}
+.button:hover{
+    background-color: rgb(136, 132, 155);
+}
+
+text-input{
+    padding: 8px;
+    border: 1px;
+    border-radius: 5px;
+    width: 5px;
+    text-align: right;
+}
+.text-input2{
+    width: 420px; 
+    height: 400px;
+     padding: 1px;
+    background-color: rgb(206, 231, 231);
+   border: none;
+   outline: none;
+}
+.text-input3{
+    width: 800px; 
+    height: 200px;
+     padding: 1px;
+    background-color: rgb(206, 231, 231);
+   border: none;
+   outline: none;
+}
+
+
+
+.kucuk-cerceve{
+    width: 500px;
+    height: 500px;
+    padding: 10px 24px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    padding: 30px; 
+    border: 10px solid rgb(110, 142, 180);
+    position: absolute;
+    border-radius: 10px;
+    top: 85px;
+    right: 300px;
+    margin: auto;
+    border: 2px solid #ccc;
+    background-color: rgb(206, 231, 231);
+    
+
+}
+.alt-cerceve{
+    background-color: rgb(206, 231, 231);
+    width: 830px;
+    height: 300px;
+    padding: 10px 24px;
+    color: black;
+    padding: 30px; 
+    border: 10px solid rgb(110, 142, 180);
+    position: absolute;
+    border-radius: 10px;
+   
+    
+    margin: auto;
+    border: 2px solid #ccc;
+
+
+}
